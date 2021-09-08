@@ -611,6 +611,7 @@ User_Calc (double dt)
        of CM 5.1 and earlier. */
     /*if (!UserCalcCalledByAppTestRunCalc) return 0;*/
 //test jenkins
+    Log("a\n");
     return 0;
 }
 
