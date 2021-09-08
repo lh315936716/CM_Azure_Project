@@ -94,7 +94,7 @@
 
 /* @@PLUGIN-BEGIN-INCLUDE@@ - Automatically generated code - don't edit! */
 /* @@PLUGIN-END@@ */
-/* @@PLUGIN-END@@ */
+
 
 int UserCalcCalledByAppTestRunCalc = 0;
 
