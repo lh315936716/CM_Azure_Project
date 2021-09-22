@@ -1,0 +1,15 @@
+APPLICATION	CarMaker 10.0 - Car_Generic #1966 (linux64-10.0)
+COMPILED	fh@obelix.ipg 2021-04-01 16:38:18
+ 
+FIRST_INIT	(internal default used)	2021-08-27 17:46:22
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:46:22
+SIM_START	ChangingLanes	2021-08-27 17:46:22
+TIME	0.000
+SIMULATE	ChangingLanes
+
+TIME	32.196
+SIM_END		ChangingLanes	32.187s	389.65m
+SHUTDOWN	CarMaker quick shutdown initiated
+

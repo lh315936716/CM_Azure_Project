@@ -1,0 +1,11 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-TestRunFinished 1
+FileCreator = CarMaker 2021-09-22 07:12:19
+
+Time = 0
+Dist = 0
+EndState = 0
+nWarnings = 0
+nErrors = 1
+nErgfiles = 0
+
